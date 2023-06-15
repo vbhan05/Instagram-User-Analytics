@@ -17,6 +17,7 @@ Your Task: Identify the winner of the contest and provide their details to the t
 Your Task: Identify and suggest the top 5 most commonly used hashtags on the platform
 5.	Launch AD Campaign: The team wants to know, which day would be the best day to launch ADs.
 Your Task: What day of the week do most users register on? Provide insights on when to schedule an ad campaign
+
 B) Investor Metrics: Our investors want to know if Instagram is performing well and is not becoming redundant like Facebook, they want to assess the app on the following grounds
 1.	User Engagement: Are users still as active and post on Instagram or they are making fewer posts
 Your Task: Provide how many times does average user posts on Instagram. Also, provide the total number of photos on Instagram/total number of users
